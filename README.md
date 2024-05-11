@@ -44,3 +44,4 @@ npm install
 (3) 运行项目
 
 npm run serve
+![image](https://github.com/Dream935/bishe/assets/83900691/26867d68-fc26-439b-8d53-3b6e5df774eb)
